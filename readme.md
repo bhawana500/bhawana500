@@ -2,8 +2,6 @@
 
 # Hi, I'm Bhawana 👋
 
-### Passionate Developer | Open Source Enthusiast | Tech Learner
-
 </div>
 
 ## 📫 Let's Connect
