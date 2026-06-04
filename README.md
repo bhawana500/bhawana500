@@ -2,9 +2,7 @@
 
 # Hi, I'm Bhawana 👋
 
-### Full Stack Developer | Open Source Enthusiast | Tech Learner
-
-I'm passionate about building scalable applications and contributing to the open-source community. I love solving complex problems and learning new technologies.
+### Full Stack Developer
 
 ---
 
@@ -61,52 +59,6 @@ I'm passionate about building scalable applications and contributing to the open
 
 ---
 
-## 🚀 Featured Projects
-
-### Project 1: [Project Name]
-A brief description of your project. What problems does it solve? What technologies were used?
-- **Tech Stack**: React, Node.js, MongoDB
-- **Link**: [View Repository](https://github.com/bhawana500/project-name)
-
-### Project 2: [Project Name]
-Another exciting project you've built or contributed to.
-- **Tech Stack**: Next.js, TypeScript, Tailwind CSS
-- **Link**: [View Repository](https://github.com/bhawana500/project-name)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced System Design
-- Cloud Technologies (AWS/GCP)
-- Machine Learning Basics
-- Web3 & Blockchain
-
----
-
-## 📈 Contributions & Achievements
-
-- 🔗 Active Open Source Contributor
-- 💡 Problem Solver with a focus on clean code
-- 🎓 Continuous Learner and Tech Enthusiast
-- 🤝 Strong Collaborator and Team Player
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! Check back for updates.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💬 Let's Talk!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out through any of my social links above or drop me an email.
-
-<div align="center">
-
-**Made with ❤️ by Bhawana**
+## 💬 Let's Talk
 
 </div>
